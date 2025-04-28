@@ -55,6 +55,11 @@ def hello():
     </html>
     """
 
+
+@app.route('/home', methods = ['GET'])
+def home():
+    return {'message': 'Welcome to the Loan Prediction API!'}
+
 @app.route('/predict', methods = ['POST'])
 def predict():
     loan_req = request.get_json()
@@ -87,4 +92,5 @@ def predict():
         prediction = "Loan Not Approved"
 
     return {'prediction of the model': prediction}
+
 
