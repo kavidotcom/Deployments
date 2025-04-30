@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kavithiyagu/Documents/Projects/Deployments/mlruns/292755279191474900/cbe461c2812043a1a38e9a16cafc7dab/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '292755279191474900'
+lifecycle_stage: active
+run_id: cbe461c2812043a1a38e9a16cafc7dab
+run_name: upset-quail-125
+run_uuid: cbe461c2812043a1a38e9a16cafc7dab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746011038691
+status: 1
+tags: []
+user_id: kavithiyagu

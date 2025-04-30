@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kavithiyagu/Documents/Projects/Deployments/mlruns/326888964215688804/d879feb97eda478993d983c0f7945ccc/artifacts
+end_time: 1746013856568
+entry_point_name: ''
+experiment_id: '326888964215688804'
+lifecycle_stage: active
+run_id: d879feb97eda478993d983c0f7945ccc
+run_name: KNN
+run_uuid: d879feb97eda478993d983c0f7945ccc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746013856224
+status: 3
+tags: []
+user_id: kavithiyagu

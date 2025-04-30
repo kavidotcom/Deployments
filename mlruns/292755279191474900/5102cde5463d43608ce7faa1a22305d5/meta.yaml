@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kavithiyagu/Documents/Projects/Deployments/mlruns/292755279191474900/5102cde5463d43608ce7faa1a22305d5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '292755279191474900'
+lifecycle_stage: active
+run_id: 5102cde5463d43608ce7faa1a22305d5
+run_name: kindly-elk-455
+run_uuid: 5102cde5463d43608ce7faa1a22305d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746011060810
+status: 1
+tags: []
+user_id: kavithiyagu

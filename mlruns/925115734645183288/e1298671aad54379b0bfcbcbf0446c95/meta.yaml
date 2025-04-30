@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kavithiyagu/Documents/Projects/Deployments/mlruns/925115734645183288/e1298671aad54379b0bfcbcbf0446c95/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '925115734645183288'
+lifecycle_stage: active
+run_id: e1298671aad54379b0bfcbcbf0446c95
+run_name: abc malt
+run_uuid: e1298671aad54379b0bfcbcbf0446c95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746012386690
+status: 1
+tags: []
+user_id: kavithiyagu

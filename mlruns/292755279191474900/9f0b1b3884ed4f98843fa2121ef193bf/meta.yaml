@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kavithiyagu/Documents/Projects/Deployments/mlruns/292755279191474900/9f0b1b3884ed4f98843fa2121ef193bf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '292755279191474900'
+lifecycle_stage: active
+run_id: 9f0b1b3884ed4f98843fa2121ef193bf
+run_name: awesome-colt-595
+run_uuid: 9f0b1b3884ed4f98843fa2121ef193bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746011072909
+status: 1
+tags: []
+user_id: kavithiyagu
